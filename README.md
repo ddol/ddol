@@ -1,4 +1,6 @@
 ## Hi, I'm David 🐬
+[![Twitter](https://img.shields.io/badge/Twitter-%40ddol-58a1f2.svg)](https://twitter.com/ddol)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/david-dolphin/)
 
 * 🏡 I'm an Irish engineer living in San Francisco with my wife and kids.
 * ☎️ I worked at Airbnb for ten years and built their customer support hotline infrastructure using open-source software (Kamailio and FreeSWITCH).
