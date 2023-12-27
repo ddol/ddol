@@ -9,6 +9,6 @@
 
 ---
 ## 🎲 Boardgames
-Every day I play one or more board games with my kids. Some of our favorite games at the moment include (click to see the full list):
-
-[![Our favorite board games](https://boardgamegeek.com/jswidget.php?username=ddol&numitems=10&text=none&images=medium&show=top10&imagesonly=1&imagepos=right&inline=1&domains%5B%5D=boardgame&imagewidget=1)](https://boardgamegeek.com/collection/user/ddol?sort=rating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
+Every day I play one or more board games with my kids. Some of our favorite games include:
+[![Our favorite board games](https://boardgamegeek.com/jswidget.php?username=ddol&text=none&images=medium&numitems=10&show=top10&imagesonly=1&imagepos=right&inline=1&domains%5B%5D=boardgame&imagewidget=1)](https://boardgamegeek.com/collection/user/ddol?sort=rating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
+([Click to see the full list](https://boardgamegeek.com/collection/user/ddol?sort=rating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame))
