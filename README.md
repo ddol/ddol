@@ -9,6 +9,6 @@
 
 ---
 ## 🎲 Boardgames
-I love playing board games with my family. Some of our favorite games are:
-[![Our favorite board games](https://boardgamegeek.com/jswidget.php?username=ddol&text=none&images=medium&show=top10&imagesonly=1&numitems=10&imagepos=right&inline=1&domains%5B%5D=boardgame&imagewidget=1)](https://boardgamegeek.com/collection/user/ddol?sort=rating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
+I love playing board games with my family. Some of our favourite games are:
+[![Our favorite board games](https://boardgamegeek.com/jswidget.php?username=ddol&numitems=10&text=none&images=medium&show=top10&imagepos=center&inline=1&domains%5B%5D=boardgame&imagewidget=1)](https://boardgamegeek.com/collection/user/ddol?sort=rating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
 You can find a full list of games we've played on [Board Game Geek.com (BGG)](https://boardgamegeek.com/collection/user/ddol?sort=rating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
