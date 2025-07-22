@@ -1,6 +1,9 @@
 ## Hi, I'm David 🐬
-[![Twitter](https://img.shields.io/badge/Twitter-%40ddol-58a1f2.svg)](https://twitter.com/ddol)
-[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/david-dolphin/)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/ddol)](https://www.reddit.com/user/ddol/)
+[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ddol)](https://news.ycombinator.com/user?id=ddol)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZhc_AuWvY6TXytMBQ_FbAQ)](https://youtube.com/@david-dolphin-sf)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/202924?style=social&logo=stackoverflow&logoColor=%23F58025)](https://stackoverflow.com/users/202924/david-dolphin?tab=profile)
+
 
 * 🏡 I'm an engineer living in San Francisco with my wife and kids.
 * ☎️ I worked at Airbnb for ten years building telephony infrastructure, data pipelines and logging frameworks.
