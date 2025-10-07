@@ -1,6 +1,6 @@
 ## Hi, I'm David 🐬
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/ddol?label=u%2Fddol)](https://www.reddit.com/user/ddol/) 　
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZhc_AuWvY6TXytMBQ_FbAQ?label=YouTube)](https://youtube.com/@david-dolphin-sf)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZhc_AuWvY6TXytMBQ_FbAQ?label=YouTube)](https://youtube.com/@david-dolphin-sf) 　
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ddol?label=u%2Fddol)](https://news.ycombinator.com/user?id=ddol) 　
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/202924?style=social&logo=stackoverflow&logoColor=%23F58025&label=StackOverflow)](https://stackoverflow.com/users/202924/david-dolphin?tab=profile) 　
 
