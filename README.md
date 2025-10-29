@@ -8,7 +8,7 @@
 * 🚸 Building [`velocity.report`](https://github.com/banshee-data/velocity.report), citizen radar to empower street safety advocacy
 * ☎️ Airbnb decade club: built telephony infrastructure, internal tools, reporting & canary analysis pipelines
 * 🚀 Co-founder of [PhoneSys](https://www.ycombinator.com/companies/phonesys), part of Y Combinator’s Summer 2011 batch
-* 🧙‍♀️ Interviewed [Terry Pratchett](https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/) for my university radio station.
+* 🧙‍♀️ Interviewed [Sir. Terry Pratchett](https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/) for university radio
 
 ## Boardgames 🎲
 I love playing board games with my family, some of our favourites include:
