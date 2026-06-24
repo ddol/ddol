@@ -11,6 +11,9 @@
 * 🧙‍♀️ Interviewed [Sir. Terry Pratchett](https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/) for university radio
 
 ## Boardgames 🎲
+
 I love playing board games with my family, some of our favourites include:
-[![Our favorite board games](https://boardgamegeek.com/jswidget.php?username=ddol&images=medium&show=top10&numitems=10&text=none&inline=1&imagepos=center&domains%5B%5D=boardgame&imagewidget=1)](https://boardgamegeek.com/collection/user/ddol?✦sort=rating&sortdir=desc&rankobjectid=1&rankobjecttype=subtype&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
+
+<a href="https://boardgamegeek.com/collection/user/ddol?✦sort=rating&sortdir=desc&rankobjectid=1&rankobjecttype=subtype&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame"><img width="2748" height="300" alt="Our favorite board games" src="https://github.com/user-attachments/assets/d64383f2-feaa-4e01-b481-1cebd7e82433" /></a>
+
 You can find a full list of games we play on [Board Game Geek.com (BGG)](https://boardgamegeek.com/collection/user/ddol?sort=rating&sortdir=desc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cstatus%7Cversion%7Crating%7Cbggrating%7Cplays%7Ccomment%7Ccommands&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame)
