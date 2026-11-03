@@ -2,15 +2,11 @@
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/ddol?label=u%2Fddol)](https://www.reddit.com/user/ddol/) 　
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZhc_AuWvY6TXytMBQ_FbAQ?label=YouTube)](https://youtube.com/@david-dolphin-sf) 　
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/ddol?label=u%2Fddol)](https://news.ycombinator.com/user?id=ddol) 　
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/202924?style=social&logo=stackoverflow&logoColor=%23F58025&label=StackOverflow)](https://stackoverflow.com/users/202924/david-dolphin?tab=profile) 　
 
 * 🏡 Irish engineer living in San Francisco, husband and father
 * 🚸 Building [`velocity.report`](https://github.com/banshee-data/velocity.report), citizen radar to empower street safety advocacy
 * ☎️ Airbnb decade club: built telephony infrastructure, internal tools, reporting & canary analysis pipelines
 * 🚀 Co-founder of [PhoneSys](https://www.ycombinator.com/companies/phonesys), part of Y Combinator’s Summer 2011 batch
-* 🧙‍♀️ Interviewed [Sir. Terry Pratchett](https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/) for university radio
-
-## Selected projects
 
 <table role="presentation">
   <tr>
@@ -22,7 +18,7 @@
     <td width="50%" valign="top">
       <h3>Gerardus</h3>
       <div align="center"><img src="assets/projects/gerardus.png" width="320" height="240" loading="lazy" alt="Gerardus project image"></div>
-      <p>A high-definition mapping service.</p>
+      <p>A high-definition mapping service, vector geometry from aerial and roadside LiDAR.</p>
     </td>
   </tr>
   <tr>
@@ -42,13 +38,13 @@
     <td width="50%" valign="top">
       <h3>The internet audio network</h3>
       <div align="center"><a href="https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/"><img src="assets/projects/ian.png" width="320" height="240" loading="lazy" alt="Terry Pratchett interview (archived)"></a></div>
-      <p>A technology podcast and FM radio show featuring interviews, including a conversation with Terry Pratchett</p>
+      <p>A technology podcast and FM radio show featuring interviews, including a conversation with Terry Pratchett.</p>
       <p><a href="https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/">Terry Pratchett interview (archived)</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>The Skynet Game</h3>
       <div align="center"><a href="https://tyrion.users.skynet.ie/game/2009/language/"><img src="assets/projects/skynet-game.png" width="320" height="240" loading="lazy" alt="2009 language round"></a></div>
-      <p>A puzzlehunt from Skynet</p>
+      <p>A puzzlehunt from Skynet.</p>
       <p><a href="https://tyrion.users.skynet.ie/game/2009/language/">2009 language round</a></p>
     </td>
   </tr>
