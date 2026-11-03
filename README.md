@@ -17,7 +17,7 @@
     <td width="50%" valign="top">
       <h3>velocity.report</h3>
       <a href="https://velocity.report"><img src="assets/projects/velocity-report.png" width="320" height="240" loading="lazy" alt="Project site"></a>
-      <p>Open-source citizen radar that turns a Raspberry Pi and a radar sensor into a street-speed monitor. It produces reports residents can use to advocate for safer streets.</p>
+      <p>Open-source radar and LiDAR tools for measuring street speeds and studying how people move through intersections. Residents can use the data to advocate for safer streets.</p>
       <p><a href="https://velocity.report">Project site</a></p>
     </td>
     <td width="50%" valign="top">
@@ -36,8 +36,8 @@
     <td width="50%" valign="top">
       <h3>Colour Puzzle Mapper</h3>
       <a href="https://ddol.github.io/colour-puzzle-mapper/"><img src="assets/projects/colour-puzzle-mapper.png" width="320" height="240" loading="lazy" alt="Open the tool"></a>
-      <p>An offline tool for mapping colours while working through puzzles.</p>
-      <p><a href="https://ddol.github.io/colour-puzzle-mapper/">Open the tool</a></p>
+      <p>An offline companion for the daily Color Puzzle, built to help you map colours as you solve.</p>
+      <p><a href="https://ddol.github.io/colour-puzzle-mapper/">Open the mapper</a> · <a href="https://www.reddit.com/r/ColorPuzzleGame/">Color Puzzle on Reddit</a></p>
     </td>
   </tr>
   <tr>
