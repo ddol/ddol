@@ -10,6 +10,66 @@
 * 🚀 Co-founder of [PhoneSys](https://www.ycombinator.com/companies/phonesys), part of Y Combinator’s Summer 2011 batch
 * 🧙‍♀️ Interviewed [Sir. Terry Pratchett](https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/) for university radio
 
+## Selected projects
+
+<table role="presentation">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>velocity.report</h3>
+      <a href="https://velocity.report"><img src="assets/projects/velocity-report.png" width="320" height="240" loading="lazy" alt="Project site"></a>
+      <p>Open-source citizen radar that turns a Raspberry Pi and a radar sensor into a street-speed monitor. It produces reports residents can use to advocate for safer streets.</p>
+      <p><a href="https://velocity.report">Project site</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gerardus</h3>
+      <img src="assets/projects/gerardus.png" width="320" height="240" loading="lazy" alt="Gerardus project image">
+      <p>A high-definition mapping service. Currently closed source.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>citation-needed</h3>
+      <a href="https://github.com/ddol/citation-needed"><img src="assets/projects/citation-needed.png" width="320" height="240" loading="lazy" alt="GitHub repository"></a>
+      <p>An academic citation assistant that indexes a corpus of papers so you can search the text and verify quotes against their sources.</p>
+      <p><a href="https://github.com/ddol/citation-needed">GitHub repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Colour Puzzle Mapper</h3>
+      <a href="https://ddol.github.io/colour-puzzle-mapper/"><img src="assets/projects/colour-puzzle-mapper.png" width="320" height="240" loading="lazy" alt="Open the tool"></a>
+      <p>An offline tool for mapping colours while working through puzzles.</p>
+      <p><a href="https://ddol.github.io/colour-puzzle-mapper/">Open the tool</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ian</h3>
+      <a href="https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/"><img src="assets/projects/ian.png" width="320" height="240" loading="lazy" alt="Terry Pratchett interview (archived)"></a>
+      <p>A technology podcast and FM radio show featuring interviews, including a conversation with Terry Pratchett.</p>
+      <p><a href="https://web.archive.org/web/20120423234156/http://ian.ie/521/terry-pratchett/">Terry Pratchett interview (archived)</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>The Skynet Game</h3>
+      <a href="https://tyrion.users.skynet.ie/game/2009/language/"><img src="assets/projects/skynet-game.png" width="320" height="240" loading="lazy" alt="2009 language round"></a>
+      <p>A puzzlehunt from Skynet. This is the language round from the 2009 game.</p>
+      <p><a href="https://tyrion.users.skynet.ie/game/2009/language/">2009 language round</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Fairness in Qutrit Walks</h3>
+      <a href="https://tyrion.users.skynet.ie/msc/david-dolphin_msc-thesis.pdf"><img src="assets/projects/qutrit-walks.png" width="320" height="240" loading="lazy" alt="MSc thesis (PDF)"></a>
+      <p>My MSc thesis explored how adding a third, stay-put state changes the behaviour of a quantum walk. I also built a tool for computing walks on lines and cycles.</p>
+      <p><a href="https://tyrion.users.skynet.ie/msc/david-dolphin_msc-thesis.pdf">MSc thesis (PDF)</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>WarpViz for WARP3D</h3>
+      <a href="https://tyrion.users.skynet.ie/fyp/cd/david-dolphin_fyp-report.pdf"><img src="assets/projects/warp3d.png" width="320" height="240" loading="lazy" alt="Final-year report (PDF)"></a>
+      <p>For my undergraduate engineering project, I built a MATLAB visualiser for the WARP3D finite-element solver and compared its modelling workflow with Abaqus.</p>
+      <p><a href="https://tyrion.users.skynet.ie/fyp/cd/david-dolphin_fyp-report.pdf">Final-year report (PDF)</a></p>
+    </td>
+  </tr>
+</table>
+
 ## Boardgames 🎲
 
 I love playing board games with my family, some of our favourites include:
